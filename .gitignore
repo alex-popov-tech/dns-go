@@ -1,0 +1,13 @@
+# Compiled binaries
+/app/app
+*.exe
+*.test
+*.out
+
+# Go
+go.work
+go.work.sum
+
+# OS / editor
+.DS_Store
+.claude/

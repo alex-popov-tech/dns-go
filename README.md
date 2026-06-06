@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7958fa94-f9f3-4f1b-bd3f-42ff32f152df" alt="dns-go" width="820" />
+</p>
+
 [![progress-banner](https://backend.codecrafters.io/progress/dns-server/0211f9f4-c27a-4443-a9c9-1dfab7d164e9)](https://app.codecrafters.io/users/alex-popov-tech?r=2qF)
 
 # 🌐 DNS Server in Go
